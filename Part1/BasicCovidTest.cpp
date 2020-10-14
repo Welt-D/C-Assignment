@@ -7,5 +7,3 @@ int main() {
     CovidCase patientB(51.5033, -0.1195, "PatientB", 51, 79);
     return 0;
 }
-
-1
